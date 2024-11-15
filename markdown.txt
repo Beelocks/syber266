@@ -1,0 +1,10 @@
+
+### Penjelasan `README.md`
+
+- **Overview**: Memberikan gambaran umum tentang proyek, mencakup berbagai teknik eksploitasi yang digunakan.
+- **Setup**: Instruksi untuk menginstal dependensi dan menjalankan skrip dengan opsi CLI.
+- **Features**: Daftar fitur utama yang mencakup algoritma kuantum, eksploitasi SSL/TLS, manipulasi perangkat USB, teknik bypass tingkat lanjut, dan penemuan auto login.
+- **Usage Examples**: Contoh penggunaan untuk menemukan kunci enkripsi, memanipulasi perangkat USB, dan sniffing auto login.
+- **Disclaimer**: Penafian yang menegaskan bahwa proyek ini untuk tujuan pendidikan dan hanya boleh digunakan di lingkungan yang terkendali.
+
+Jika ada perubahan lebih lanjut atau tambahan yang diperlukan, silakan beri tahu saya!
