@@ -23,4 +23,4 @@
    
 3. Finding Encryption Key
    ```sh
-   python src/exploit.py --target-ip 192.168.1.100 --target-port 443
+   python3 src/exploit.py --target-ip 192.168.1.100 --target-port 443
